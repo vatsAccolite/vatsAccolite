@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vatsAccolite
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning more coding
-- 💞️ I’m looking to collaborate on conding with others
+- 💞️ I’m looking to collaborate on coding with others
 - 📫 How to reach me ...
 
 <!---
